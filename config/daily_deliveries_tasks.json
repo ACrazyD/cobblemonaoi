@@ -1,0 +1,270 @@
+[
+  {
+    "resources": [
+      {
+        "item": "minecraft:wheat",
+        "count": 10
+      }
+    ],
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "isUrgent": false,
+    "rewards": [
+      {
+        "item": "minecraft:emerald",
+        "count": 3
+      }
+    ]
+  },
+  {
+    "resources": [
+      {
+        "item": "minecraft:iron_ingot",
+        "count": 5
+      },
+      {
+        "item": "minecraft:coal",
+        "count": 10
+      }
+    ],
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "isUrgent": true,
+    "rewards": [
+      {
+        "item": "minecraft:diamond",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "resources": [
+      {
+        "item": "minecraft:apple",
+        "count": 6
+      }
+    ],
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "isUrgent": true,
+    "rewards": [
+      {
+        "item": "minecraft:golden_apple",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "resources": [
+      {
+        "item": "minecraft:oak_log",
+        "count": 16
+      }
+    ],
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "isUrgent": true,
+    "rewards": [
+      {
+        "item": "minecraft:iron_pickaxe",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "resources": [
+      {
+        "item": "minecraft:porkchop",
+        "count": 5
+      }
+    ],
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "isUrgent": false,
+    "rewards": [
+      {
+        "item": "minecraft:cooked_porkchop",
+        "count": 5
+      }
+    ]
+  },
+  {
+    "resources": [
+      {
+        "item": "minecraft:bread",
+        "count": 5
+      }
+    ],
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "isUrgent": false,
+    "rewards": [
+      {
+        "item": "minecraft:emerald",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "resources": [
+      {
+        "item": "minecraft:iron_ingot",
+        "count": 4
+      },
+      {
+        "item": "minecraft:gold_ingot",
+        "count": 2
+      }
+    ],
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "isUrgent": true,
+    "rewards": [
+      {
+        "item": "minecraft:diamond",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "resources": [
+      {
+        "item": "minecraft:oak_log",
+        "count": 20
+      }
+    ],
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "isUrgent": false,
+    "rewards": [
+      {
+        "item": "minecraft:iron_axe",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "resources": [
+      {
+        "item": "minecraft:cooked_beef",
+        "count": 6
+      }
+    ],
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "isUrgent": true,
+    "rewards": [
+      {
+        "item": "minecraft:golden_carrot",
+        "count": 3
+      }
+    ]
+  },
+  {
+    "resources": [
+      {
+        "item": "minecraft:lapis_lazuli",
+        "count": 15
+      }
+    ],
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "isUrgent": false,
+    "rewards": [
+      {
+        "item": "minecraft:experience_bottle",
+        "count": 3
+      }
+    ]
+  },
+  {
+    "resources": [
+      {
+        "item": "minecraft:redstone",
+        "count": 32
+      },
+      {
+        "item": "minecraft:iron_ingot",
+        "count": 5
+      }
+    ],
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "isUrgent": true,
+    "rewards": [
+      {
+        "item": "minecraft:observer",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "resources": [
+      {
+        "item": "minecraft:string",
+        "count": 10
+      },
+      {
+        "item": "minecraft:spider_eye",
+        "count": 3
+      }
+    ],
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "isUrgent": false,
+    "rewards": [
+      {
+        "item": "minecraft:fermented_spider_eye",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "resources": [
+      {
+        "item": "minecraft:obsidian",
+        "count": 4
+      }
+    ],
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "isUrgent": true,
+    "rewards": [
+      {
+        "item": "minecraft:ender_pearl",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "resources": [
+      {
+        "item": "minecraft:honey_bottle",
+        "count": 3
+      }
+    ],
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "isUrgent": false,
+    "rewards": [
+      {
+        "item": "minecraft:honeycomb",
+        "count": 3
+      }
+    ]
+  }
+]

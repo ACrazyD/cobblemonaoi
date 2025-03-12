@@ -1,0 +1,4 @@
+#DopedHorse Client Configuration
+[DopedHorses]
+	#0=km/h, 1=block/s, 2=mph
+	user_speed_unit = 0

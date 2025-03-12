@@ -1,0 +1,21 @@
+["New Trinket Slot Probability"]
+	# Default: 10
+	# Range: 0 ~ 100
+	newSlotProbability = 10
+
+["Speed Force Particles"]
+	showParticles = true
+
+["Fragments from Trinket Destruction"]
+	getFragments = true
+
+["Trinket Slot Settings"]
+	# Default: 2
+	# Range: 0 ~ 99
+	maxTrinketSlots = 2
+	# Default: 1
+	# Range: 0 ~ 99
+	startingSlotQuantity = 1
+
+["FOV Disable Settings"]
+	disableFOV = false

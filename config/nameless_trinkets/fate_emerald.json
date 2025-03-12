@@ -1,0 +1,10 @@
+{
+  "config": {
+    "discountPercentage": 100,
+    "timeUntilUnequip": 0.0,
+    "hungerExhaustionRate": 0.1,
+    "isEnable": true,
+    "backupTimeUntilUnequip": 0.0,
+    "resetTimerFlag": false
+  }
+}
